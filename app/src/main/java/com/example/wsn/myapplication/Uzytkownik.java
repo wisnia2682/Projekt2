@@ -10,5 +10,5 @@ public class Uzytkownik extends MainActivity
 {
     EditText login;
     EditText password;
-    Button b1;
+    Button b1; /dasdasdas
 }
