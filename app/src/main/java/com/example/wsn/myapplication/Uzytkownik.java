@@ -10,5 +10,6 @@ public class Uzytkownik extends MainActivity
 {
     EditText login;
     EditText password;
-    Button b1; //dupa
+    Button b1;
+    Button b2; //dasd
 }
